@@ -25,6 +25,7 @@ div div {
 
 h2 {
   background-color: lightblue;
+  padding-top: 6.5px; 
   height: 35px;
   font-size: 16px;
   text-align: center;
